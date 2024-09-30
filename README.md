@@ -6,7 +6,6 @@ As a Front End Developer, I’m passionate about creating intuitive, user-friend
 
 I thrive on experimenting with emerging technologies and enjoy tackling complex problems with innovative solutions. A quick learner, I frequently participate in hackathons to push my limits.    
 
-Github Profile: https://github.com/ShovanDhara
 Email: shovan.9836@gmail.com
 
 Area of Experience:
