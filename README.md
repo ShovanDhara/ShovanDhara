@@ -1,4 +1,5 @@
-# Hi, there 👋
+# Hi, there, This is Shovan 👋
+
 “If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes.”
 — Albert Einstein, Theoretical Physicist
 
@@ -8,7 +9,7 @@ I thrive on experimenting with emerging technologies and enjoy tackling complex 
 
 Email: shovan.9836@gmail.com
 
-Area of Experience:
+### Area of Experience:
 Front End Language - Javascript , TypeScript
 
 Backend Language – Node JS
