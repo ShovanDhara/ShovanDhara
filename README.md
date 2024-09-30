@@ -11,7 +11,7 @@ I thrive on experimenting with emerging technologies and enjoy tackling complex 
 
 Email: shovan.9836@gmail.com
 
-### Area of Experties:
+### Area of Experties: 💪
 Front End Language - Javascript , TypeScript
 
 Framework / Library – Angular (2,5, 7, 11), React, NEXT Js, React Query, Redux, Single SPA
@@ -22,7 +22,7 @@ Architecture – Monolithic, Micro Front-End
 
 Schematics  - Angular Schematics (Built tools to simplify and enhance the developer experience)
 
-### Area of Experience:
+### Area of Experience: 🤨
 
 Backend Language – Node JS
 
