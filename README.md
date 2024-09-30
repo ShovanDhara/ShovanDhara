@@ -11,18 +11,22 @@ I thrive on experimenting with emerging technologies and enjoy tackling complex 
 
 Email: shovan.9836@gmail.com
 
-### Area of Experience:
+### Area of Experties:
 Front End Language - Javascript , TypeScript
 
-Backend Language – Node JS
-NoSql DB – Mongo DB, GraphQL
-
 Framework / Library – Angular (2,5, 7, 11), React, NEXT Js, React Query, Redux, Single SPA
+
 Testing Tools - Cypress, Jest, React Testing Library
+
+Architecture – Monolithic, Micro Front-End
 
 Schematics  - Angular Schematics (Built tools to simplify and enhance the developer experience)
 
-Architecture – Monolithic, Micro Front-End
+### Area of Experience:
+
+Backend Language – Node JS
+
+NoSql DB – Mongo DB, GraphQL
 
 Security Integration - Subresource Integrity, Content Security Policy in CloudFront CDN
 
