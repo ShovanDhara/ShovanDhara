@@ -1,9 +1,11 @@
-# Hi, there, This is Shovan 👋
+# Hi, there 👋 🙋‍♂️
+
+### It's Shovan
 
 “If I had an hour to solve a problem and my life depended on the solution, I would spend the first 55 minutes determining the proper question to ask, for once I know the proper question, I could solve the problem in less than five minutes.”
 — Albert Einstein, Theoretical Physicist
 
-As a Front End Developer, I’m passionate about creating intuitive, user-friendly applications while developing tools to simplify the development process. With a strong foundation in product development, usability, and user experience, I ensure high-quality deliverables without getting bogged down by unnecessary details.
+As a `Front End Developer` , I’m passionate about creating intuitive, user-friendly applications while developing tools to simplify the development process. With a strong foundation in product development, usability, and user experience, I ensure high-quality deliverables without getting bogged down by unnecessary details.
 
 I thrive on experimenting with emerging technologies and enjoy tackling complex problems with innovative solutions. A quick learner, I frequently participate in hackathons to push my limits.    
 
