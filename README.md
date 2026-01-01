@@ -26,7 +26,9 @@ Schematics  - Angular Schematics (Built tools to simplify and enhance the develo
 
 Backend Language – Node JS
 
-NoSql DB – Mongo DB, GraphQL
+NoSql DB – Mongo DB
+
+Query Language - GraphQL
 
 Security Integration - Subresource Integrity, Content Security Policy in CloudFront CDN
 
